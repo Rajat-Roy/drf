@@ -1,3 +1,7 @@
+# GIT Config
+git config --global user.email "rctbraj@gmail.com"
+git config --global user.name "Rajat Roy"
+
 # Install DRF
 python3 -m venv venv
 
